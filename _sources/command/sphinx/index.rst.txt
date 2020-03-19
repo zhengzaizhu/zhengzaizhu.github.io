@@ -1,0 +1,11 @@
+sphinx
+======
+
+`reStructuredText <http://docutils.sourceforge.net/rst.html>`__
+::
+
+   pip3 install sphinx sphinx_rtd_theme
+
+   mkdir qwe
+   cd qwe
+   sphinx-quickstart -q -p Notebook -a zhengzaizhu

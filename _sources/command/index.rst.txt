@@ -4,3 +4,11 @@ Command
 ::
 
         man man
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+   :hidden:
+   :glob:
+
+   */index
